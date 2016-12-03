@@ -1,5 +1,5 @@
 # hello-world
-first repository, trying hands on GitHub
+first repository, try hands on GitHub
 
 
 ----changes in new branch
